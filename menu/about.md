@@ -1,18 +1,17 @@
 ---
 layout: page
-title: Welcome to Lagrange!
+title: Welcome to the Cloudspresso Shot!
 ---
 
-Lagrange is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.
+### The author
 
-### Getting Started
+My name is Arne, I am currently studying for a master‘s degree in business informatics and I am a big Cloud Computing enthusiast. 
 
-[Getting Started]({{ site.github.url }}{% post_url 2015-10-10-getting-started %}): getting started with installing Lagrange, whether you are completely new to using Jekyll, or simply just migrating to a new Jekyll theme.
+I had my first contact with Cloud Computing during the writing of my bachelor thesis. Shortly afterwards, I became part of a small DevOps team, where I collected my first experiences with AWS, CloudFormation and Terraform. 
+Since then I really was fasciniated about Cloud Computing and all the possibilities it brings with it. After working with AWS for a few months, I decided to take on the AWS Solutions Architect Associate certification, which I successfully passed. 
 
-### Example Content
+### The why behind Cloudspresso Shot
 
-[Text and Formatting]({{ site.github.url }}{% post_url 2014-01-01-text-formatting-examples %})
+I believe that sharing knowledge is one most important tasks in our life. If you share knowledge of topics that you are passionate about, you enable others to understand and learn much easier. Moreover, your own understanding of these topics will be increased. 
 
-### Questions?
-
-This theme is completely free and open source software. You may use it however you want, as it is distributed under the [MIT License](http://choosealicense.com/licenses/mit/). If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=My%question%about%Lagrange%is:%&amp;via=paululele), or [file a GitHub issue](https://github.com/lenpaul/lagrange/issues/new).
+This is why I started this blog. My mission is to share knowledge about a topic which fascinates me - Cloud Computing. Not because I already know everything, but rather to share my journey on learning about this highly interesting field of computer science with you. 
