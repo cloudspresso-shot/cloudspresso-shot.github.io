@@ -24,27 +24,30 @@ $ sudo installer -pkg ./AWSCLIV2.pkg -target /
 Now, let´s check if the installation was successfull:
 ```terminal
 $ which aws
+/usr/local/bin/aws
 ```
 
 Another way to test the installation:
 ```terminal
 $ aws --version
+aws-cli/2.0.6 Python/3.7.4 Darwin/18.7.0 botocore/2.0.0
 ```
+
 
 ### Configuration:
 
-Before you can create or administrate your resoruces, you need to configure your AWS profile.
+Before you can create or administrate your resources, you need to configure your AWS profile.
 ```terminal
 $ aws configure
 ```
 
-You are then prompted to enter details about your AWS account like your Access Key ID and your Secret Access Key, your default region to create resources in and our preferred ouput format (the default it JSON, but you can also change it to text).
+You are then prompted to enter details about your AWS account like your Access Key ID and your Secret Access Key, your default region to create resources in and your preferred ouput format (the default is JSON, but you can also change it to text).
 
 Press enter and that´s it .
+
 
 ### Summary
 Now you can finally build in AWS with the terminal! I hope you enjoyed this Cloudspresso Shot 😄
 
-###### Links:
-The official tutorial of AWS can be found under the following link:
-https://docs.aws.amazon.com/de_de/cli/latest/userguide/install-cliv2-mac.html#cliv2-mac-install-confirm
+The official tutorial of AWS can be found under the following [link](https://docs.aws.amazon.com/de_de/cli/latest/userguide/install-cliv2-mac.html#cliv2-mac-install-confirm).
+
