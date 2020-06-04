@@ -41,7 +41,7 @@ Before you can create or administrate your resources, you need to configure your
 $ aws configure
 ```
 
-You are then prompted to enter details about your AWS account like your Access Key ID and your Secret Access Key, your default region to create resources in and your preferred ouput format (the default is JSON, but you can also change it to text).
+You are then prompted to enter details about your AWS account like your Access Key ID and your Secret Access Key, your default region to create resources in and your preferred output format (the default is JSON, but you can also change it to text).
 
 Press enter and that´s it .
 
