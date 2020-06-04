@@ -9,7 +9,7 @@ tags: [aws, cli, commandline, configure, configuration, terminal]
 The AWS CLI is a command line interface, which enables you to create and interact with your AWS account
 via the command line.
 
-### Installation:
+## Installation:
 
 First, you can download the current version of the AWS CLI with the curl command.
 ```terminal
@@ -34,7 +34,7 @@ aws-cli/2.0.6 Python/3.7.4 Darwin/18.7.0 botocore/2.0.0
 ```
 
 
-### Configuration:
+## Configuration:
 
 Before you can create or administrate your resources, you need to configure your AWS profile.
 ```terminal
@@ -46,7 +46,7 @@ You are then prompted to enter details about your AWS account like your Access K
 Press enter and that´s it .
 
 
-### Summary
+## Summary
 Now you can finally build in AWS with the terminal! I hope you enjoyed this Cloudspresso Shot 😄
 
 The official tutorial of AWS can be found under the following [link](https://docs.aws.amazon.com/de_de/cli/latest/userguide/install-cliv2-mac.html#cliv2-mac-install-confirm).
